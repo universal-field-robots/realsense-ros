@@ -1,1 +1,1 @@
-Signed_Image_UVC_5_12_10_0.bin
+05.12.10.00:Signed_Image_UVC_5_12_10_0.bin
